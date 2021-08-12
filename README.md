@@ -16,7 +16,7 @@ The required circuit design for control Two LEDs of the Robot Eyes, using Transi
 
 
 ### 2. Connecting the circuit diagram:
-- Connect power and ground to the circuit
+- Connect power and ground to the circuit.
 - Connect the LEDs in parallel so they get the same voltage.
 - Connect the base of the transistor with Arduino digital pin(3).
 
