@@ -2,11 +2,22 @@
 The required circuit design for the LED of the robot eyes.
 
 ## Component List:
-1. Arduino Uno R3
-2. Breadboard
-3. NPN Transistor (BJT)
-4. Two LED
-5. Two Resistor
+- One Arduino Uno R3
+- Breadboard
+- One NPN Transistor (BJT)
+- Two LED
+- Two Resistor
+-  Wires
+
+## **STEPS:**
+
+### 1. Creating a new Circuit at TINKERCAD(https://www.tinkercad.com/dashboard).
+
+
+### 2. Connecting the circuit diagram.
+
+
+### 3. Programing the circuit using C++ code to control the LEDs of the Robot eyes, by using the following code:
 
 
 ## Output circuit design:
