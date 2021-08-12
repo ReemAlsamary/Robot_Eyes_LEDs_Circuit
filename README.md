@@ -11,10 +11,11 @@ The required circuit design for control Two LEDs of the Robot Eyes, using Transi
 
 ## **STEPS:**
 
-### 1. Creating a new Circuit at TINKERCAD(https://www.tinkercad.com/dashboard).
+### 1. Creating a new Circuit:
+- At TINKERCAD(https://www.tinkercad.com/dashboard).
 
 
-### 2. Connecting the circuit diagram.
+### 2. Connecting the circuit diagram:
 - Connect power and ground to the circuit
 - Connect the LEDs in parallel so they get the same voltage.
 - Connect the base of the transistor with Arduino digital pin(3).
